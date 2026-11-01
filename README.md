@@ -1,4 +1,4 @@
-# The Day Trader skill
+# The Day Trader skill 
 
 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.
 
